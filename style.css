@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+    box-sizing: border-box;
+}
+.nnn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    box-shadow: 2px 4px rgba(0, 0, 0, 0.1);
+}
+  
+.lll {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+  
+.lll img {
+    width: 40px;
+}
+  
+.lll span {
+    font-size: 20px;
+    color: #0078d7;
+}
+  
+.nnn nav a {
+    text-decoration: none;
+    color: #555;
+    margin-left: 20px;
+    font-size: 16px;
+}
+  
+.nnn nav .downloads {
+    color: #0078d7;
+}
+  
+.hhh {
+    display: flex;
+    align-items: center;
+    padding: 50px 20px;
+    background-color: #0078d7;
+    color: white;
+    gap: 20px;
+}
+  
+.hhh .ccc h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+  
+.hhh p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.hhh .bbb {
+    padding: 10px 20px;
+    background-color: #ffd700;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+}
+  
+.hhh .sss img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+  
+.fff {
+    display: flex;
+    gap: 20px;
+    padding: 50px 20px;
+    background-color: #e8f4fc;
+}
+  
+.ff {
+    background-color: #0078d7;
+    color: white;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    border-radius: 8px;
+}
+  
+.ff h3 {
+    font-size: 18px;
+}
