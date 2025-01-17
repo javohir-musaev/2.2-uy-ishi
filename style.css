@@ -12,6 +12,10 @@
     background-color: #fff;
     box-shadow: 2px 4px rgba(0, 0, 0, 0.1);
 }
+.cantener{
+   max-width: 1170px;
+   margin: 0 auto;
+}
   
 .lll {
     display: flex;
@@ -88,4 +92,39 @@
   
 .ff h3 {
     font-size: 18px;
+}
+  
+.header {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007BFF;
+    margin-bottom: 10px;
+    text-align: center;
+}
+  
+.content {
+    text-align: left;
+}
+  
+.content h3 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+    color: rgba(0, 0, 255, 0.756);
+}
+  
+.content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+  
+.content img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.content h2{
+    color: rgba(23, 23, 229, 0.764);
+    font-size: 12px;
 }
